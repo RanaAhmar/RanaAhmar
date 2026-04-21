@@ -50,8 +50,11 @@ I am a passionate developer and entrepreneur dedicated to building tools that si
   <a href="https://www.stackaura.com/">
     <img src="https://img.shields.io/badge/Stackaura-000000?style=for-the-badge&logo=stackaura&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/RanaAhmar">
+  <a href="https://linkedin.com/in/ahmar204/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/Ahmar204">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
