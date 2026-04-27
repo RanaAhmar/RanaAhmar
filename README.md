@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/RanaAhmar?style=for-the-badge)](https://github.com/RanaAhmar/RanaAhmar/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/RanaAhmar?style=for-the-badge)](https://github.com/RanaAhmar/RanaAhmar/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/RanaAhmar/blob/main/LICENSE)
+
 # Hi, I'm Ahmar Hussain 👋
 ### Founder of [Stackaura](https://github.com/RanaAhmar) | AI & Full-Stack Engineer
 
@@ -35,3 +37,15 @@ Welcome to my central hub. I manage an ecosystem of **103+ high-performance tool
 
 ![Ahmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaAhmar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAhmar&layout=compact&theme=radical)
+
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
